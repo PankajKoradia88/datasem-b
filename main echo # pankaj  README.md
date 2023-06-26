@@ -1,7 +1,7 @@
-echo "# pankaj" >> README.md
+echo "# datasem-b" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/PankajKoradia88/pankaj.git
+git remote add origin https://github.com/PankajKoradia88/datasem-b.git
 git push -u origin main
